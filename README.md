@@ -7,4 +7,4 @@
 - Mpi
 
 # Referencias
-[1] Mpi on Linux:https://lsi.ugr.es/jmantas/ppr/ayuda/datos/instalaciones/Instalacion_OpenMPI.pdf
+ Mpi on Linux:https://lsi.ugr.es/jmantas/ppr/ayuda/datos/instalaciones/Instalacion_OpenMPI.pdf
